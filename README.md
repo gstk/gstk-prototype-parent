@@ -1,5 +1,5 @@
 # gstk-prototype-parent
-### GIT UTILS todo
+### GIT UTILS todoo
 
 # git bash
 git config --global user.name "MON LOGIN"
