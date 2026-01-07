@@ -1,5 +1,5 @@
 # gstk-prototype-parent
-### GIT UTILS (à mettre au propre)
+### GIT UTILS
 
 # git bash
 git config --global user.name "MON LOGIN"
